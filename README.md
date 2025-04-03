@@ -6,6 +6,6 @@ Nessa análise, explorei quais djs que apareceram mais ao longo dos anos, quais 
 
 Mas ja posso adiantar, o país que mais apareceu no ranking é ... Alemão! Seguido por Britânico!
 
-Você sabe qual a nacionalidade do DJ que mais parece em primeiro lugar nessa lista? HOLÂNDES!!! 
+Mas você sabe qual a nacionalidade do DJ que mais parece em primeiro lugar nessa lista? HOLÂNDES!!! 
 
 ![dutch-flag-18](https://github.com/user-attachments/assets/d85cf631-4587-4731-ad87-3ec878dbd852)
